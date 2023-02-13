@@ -35,7 +35,6 @@ body{
 .hr{
     color: black;
     border: 2px solid black;
-    width: 50%;
 }
 .video{
     border: 2px solid black;
@@ -77,5 +76,13 @@ body{
 .tr2{
     color: rgb(255, 255, 255);
     /* font-weight: 700; */
+    text-shadow: 5px 5px 5px black;
+}
+.copy{
+    border:2px solid #090909;
+    width: auto;
+    background: linear-gradient(to top right, #3399ff 0%, #003399 100%);
+}
+.color{
     text-shadow: 5px 5px 5px black;
 }
