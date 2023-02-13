@@ -6,7 +6,7 @@ body{
     
         width: auto;
         height: auto;
-      margin-right: 2%;
+      margin-right: 4%;
 }
 .channel{
     text-align: center;
@@ -79,6 +79,7 @@ body{
     text-shadow: 5px 5px 5px black;
 }
 .copy{
+    margin-top: 10%;
     border:2px solid #090909;
     width: auto;
     background: linear-gradient(to top right, #3399ff 0%, #003399 100%);
