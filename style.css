@@ -65,3 +65,17 @@ body{
     font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.tr1{
+    color: white;
+    font-weight: 700;
+    /* width: auto; */
+    background: linear-gradient(to top right, #ff5050 0%, #990000 100%);
+    width: 200px;
+    text-align: center;
+    box-shadow: 8px 5px 20px rgb(0, 0, 0);
+}
+.tr2{
+    color: rgb(255, 255, 255);
+    /* font-weight: 700; */
+    text-shadow: 5px 5px 5px black;
+}
